@@ -1,5 +1,7 @@
 
-
+*{
+	box-sizing: border-box;
+}
 
 h1{
 	text-align: center;
@@ -12,7 +14,6 @@ h1{
 p{
 	background: grey;
 	font-size: 130%; 
-	height: 180px;
 	font-family:Helvetica;
 	margin-left: auto;
 	margin-right: auto;
