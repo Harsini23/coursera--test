@@ -29,18 +29,24 @@ div#container{
 
 #p1{
 	background-color: red;
-	position: absolute margin-right;
+	position: absolute;
+	top:0px;
+	right: 0px;
 	height: 50px;
 }
 #p2{
 	background-color: red;
-	position: absolute margin-right;
+	position: absolute;
+	top:0px;
+	right: 0px;
 	height: 50px;
 
 }
 #p3{
 	background-color: red;
-	position: absolute margin-right;
+	position: absolute;
+	top:0px;
+	right: 0px;
 	height: 50px;
 }
 
