@@ -15,16 +15,27 @@ p{
 	margin-right: auto;
 	width:90%;
 	border:1px solid black;
-	float: left;
+
 
 }
-span{
+#zero{
 	background: red;
 	position: absolute;
 	top:0px;
 	right: 0px;
 }
-
+#one{
+	background: red;
+	position: absolute;
+	top:0px;
+	right: 0px;
+}
+#two{
+	background: red;
+	position: absolute;
+	top:0px;
+	right: 0px;
+}
 
 
 
