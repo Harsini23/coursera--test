@@ -18,19 +18,7 @@ p{
 
 
 }
-#zero{
-	background: red;
-	position: absolute;
-	top:0px;
-	right: 0px;
-}
-#one{
-	background: red;
-	position: absolute;
-	top:0px;
-	right: 0px;
-}
-#two{
+span{
 	background: red;
 	position: absolute;
 	top:0px;
