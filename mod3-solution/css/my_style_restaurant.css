@@ -1,0 +1,46 @@
+#header-nav{
+	background-color: grey;
+	border:thick black 5px;
+	
+}
+.nav-brand h1{
+	color:black;
+	font size:1em;
+	text-decoration: none;
+
+}
+
+h2{
+	text-align: center;
+	font-size: 300%;
+
+}
+
+p{
+	position: relative;
+	background: grey;
+	font-size: 130%; 
+	font-family:Helvetica;
+	margin-left: auto;
+	margin-right: auto;
+	width:90%;
+	border:1px solid black;
+	padding:10px;
+	text-align: justify;
+
+
+}
+span{
+	background: red;
+	position: absolute;
+	top:0px;
+	right:0px;
+	font-size: 140%;
+	border: 13px;
+	padding: 8px;
+	border: 1px solid black;
+	width:200px;
+	text-align: center;
+
+	
+}
