@@ -14,8 +14,7 @@
 (function(window){
 var byeSpeaker ={};
 var speakWord = "Good Bye";
-name=byeSpeaker.speak;
-byeSpeaker.speak =function (name) {
+byeSpeaker.speak=function (name) {
   console.log(speakWord + " " + name);
 }
 
